@@ -10,7 +10,7 @@
   
   [![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows)](https://microsoft.com)
   [![Free & No Ads](https://img.shields.io/badge/Price-Free%20%7C%20No%20Ads-success?style=for-the-badge)](https://github.com/3sluz/Adan-Windows)
-  [![WPF & .NET](https://img.shields.io/badge/Framework-WPF%20%7C%20.NET-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
+  [![AIDA64 Integration](https://img.shields.io/badge/Integration-AIDA64%20SensorPanel-F34F1C?style=for-the-badge)](https://github.com/3sluz/AdanTimesforAIDA64)
 </div>
 
 ---
@@ -32,7 +32,7 @@
 *   **Islamic Library:** Read and download Islamic books directly within the app.
 *   **Live Haramain Broadcast:** Watch Makkah and Madinah streams live.
 *   **Beautiful UI:** Fluent design, Light/Dark themes, Zen Mode, and dynamic time-based backgrounds.
-*   **Advanced Tools:** AIDA64 SensorPanel and Rainmeter integration to export prayer times.
+*   **Advanced Tools:** Seamless **AIDA64 SensorPanel** and Rainmeter integration. [Read the documentation and download templates here](https://github.com/3sluz/AdanTimesforAIDA64).
 
 ## 📸 Screenshots
 
@@ -76,7 +76,7 @@ Download the app directly and securely from the Microsoft Store:
 *   **المكتبة الإسلامية:** تصفح وتحميل وقراءة الكتب الإسلامية مباشرة داخل التطبيق.
 *   **بث مباشر من الحرمين:** بث مباشر ومستمر للمسجد الحرام والمسجد النبوي.
 *   **تصميم أنيق وقابل للتخصيص:** دعم المظهر الفاتح والداكن، وضع التركيز (Zen Mode)، وخلفيات ديناميكية تتغير باختلاف الوقت.
-*   **ميزات متقدمة:** دعم AIDA64 SensorPanel و Rainmeter لتصدير مواقيت الصلاة لشاشة المراقبة.
+*   **ميزات متقدمة:** دعم متكامل مع **AIDA64 SensorPanel** و Rainmeter لتصدير مواقيت الصلاة لشاشة المراقبة. [اقرأ التوثيق وحمّل القوالب من هنا](https://github.com/3sluz/AdanTimesforAIDA64).
 
 ## 📸 لقطات من التطبيق
 
