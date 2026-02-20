@@ -25,14 +25,16 @@
 
 ## ✨ Key Features
 
-*   **Accurate Prayer Times:** Based on multiple Islamic calculation methods and high-latitude adjustments.
-*   **Adhan Notifications:** Full Adhan audio playback with renowned Muazzins (Mishary Al-Afasy, Nasir Al-Qatami, etc.) or your own custom audio.
+*   **11 Calculation Methods:** Muslim World League, Egyptian General Authority of Survey, University of Islamic Sciences (Karachi), Umm al-Qura University (Makkah), Dubai, Qatar, Kuwait, Moonsighting Committee, Singapore, ISNA (North America), Institute of Geophysics (Tehran).
+*   **Detailed Prayer Settings:** Support for **2 Madhabs** (Standard and Hanafi) and **3 High Latitude Rules** (Middle of the Night, Seventh of the Night, Twilight Angle).
+*   **Adhan Notifications:** Full Adhan audio playback with renowned Muazzins (Mishary Al-Afasy, Nasir Al-Qatami, etc.) or your own custom audio files.
 *   **Daily Hadith & Duaa:** A new inspiration every day directly on your home screen.
-*   **Adhkar (Remembrances):** 11 categories perfectly organized for easy reading.
+*   **11 Adhkar Categories:** Morning, Evening, Sleep, Waking Up, Food & Drink, Mosque, Post-Prayer, Home, Travel, Ablution, Anxiety & Sorrow.
+*   **Islamic Events & Daily Acts:** Tracking for **14 Islamic events** (Ramadan, Eid, Ashura, etc.) and a timeline of **14 daily acts** (Sunnah of Fajr, Duha, Qiyam Al-Layl, Witr, etc.).
 *   **Islamic Library:** Read and download Islamic books directly within the app.
 *   **Live Haramain Broadcast:** Watch Makkah and Madinah streams live.
 *   **Beautiful UI:** Fluent design, Light/Dark themes, Zen Mode, and dynamic time-based backgrounds.
-*   **Advanced Tools:** Seamless **AIDA64 SensorPanel** and Rainmeter integration. [Read the documentation and download templates here](https://github.com/3sluz/AdanTimesforAIDA64).
+*   **Advanced Tools:** Seamless **AIDA64 SensorPanel** and Rainmeter integration for monitoring. [Read the documentation and download templates here](https://github.com/3sluz/AdanTimesforAIDA64).
 
 ## 📸 Screenshots
 
@@ -69,14 +71,16 @@ Download the app directly and securely from the Microsoft Store:
 
 ## ✨ أبرز المميزات
 
-*   **مواقيت صلاة دقيقة:** طرق حساب إسلامية متعددة، دعم للمذاهب المختلفة وتعديلات للمناطق ذات خطوط العرض العالية.
-*   **إشعارات وأصوات الأذان:** أذان كامل عند كل صلاة لأشهر المؤذنين (مشاري العفاسي، ناصر القطامي، وغيرهم)، مع إمكانية إضافة مؤذنك الخاص.
+*   **11 طريقة لحساب الأوقات:** رابطة العالم الإسلامي، الهيئة المصرية العامة للمساحة، جامعة العلوم الإسلامية (كراتشي)، أم القرى (مكة)، دبي، قطر، الكويت، لجنة رؤية الهلال، سنغافورة، الجمعية الإسلامية لأمريكا الشمالية (ISNA)، ومؤسسة الجيوفيزياء بطهران.
+*   **إعدادات حساب دقيقة:** دعم المذهبين (الجمهور والحنفي) و 3 قواعد للمناطق ذات خطوط العرض العالية (منتصف الليل، سُبع الليل، زاوية الشفق).
+*   **إشعارات وأصوات الأذان:** أذان كامل عند كل صلاة لأشهر المؤذنين (مشاري العفاسي، ناصر القطامي، وغيرهم)، مع إمكانية إضافة ملفات أذان مخصصة.
 *   **حديث ودعاء اليوم:** بطاقات متجددة يوميًا على الصفحة الرئيسية.
-*   **الأذكار:** 11 فئة من الأذكار المتنوعة بشكل يسهل قراءته وتتبعه.
-*   **المكتبة الإسلامية:** تصفح وتحميل وقراءة الكتب الإسلامية مباشرة داخل التطبيق.
-*   **بث مباشر من الحرمين:** بث مباشر ومستمر للمسجد الحرام والمسجد النبوي.
+*   **11 فئة للأذكار:** أذكار الصباح، المساء، النوم، الاستيقاظ، الأكل والشرب، المسجد، بعد الصلاة، دخول المنزل والخروج منه، السفر، الوضوء، والهم والحزن.
+*   **المناسبات والأعمال اليومية:** تتبع لـ 14 مناسبة إسلامية (رمضان، الأعياد، عاشوراء) وجدول زمني لـ 14 عمل مستحب (سنة الفجر، الضحى، قيام الليل، الوتر، صيام الاثنين والخميس، قراءة سورة الكهف، والمزيد).
+*   **المكتبة الإسلامية:** تصفح وتحميل وقراءة الكتب الإسلامية مجانًا بالكامل ومباشرة داخل التطبيق.
+*   **بث مباشر من الحرمين:** مشاهدة مستمرة للمسجد الحرام والمسجد النبوي.
 *   **تصميم أنيق وقابل للتخصيص:** دعم المظهر الفاتح والداكن، وضع التركيز (Zen Mode)، وخلفيات ديناميكية تتغير باختلاف الوقت.
-*   **ميزات متقدمة:** دعم متكامل مع **AIDA64 SensorPanel** و Rainmeter لتصدير مواقيت الصلاة لشاشة المراقبة. [اقرأ التوثيق وحمّل القوالب من هنا](https://github.com/3sluz/AdanTimesforAIDA64).
+*   **ميزات متقدمة:** دعم متكامل لتصدير مواقيت الصلاة عبر **AIDA64 SensorPanel** و Rainmeter. [اقرأ التوثيق وحمّل القوالب من هنا](https://github.com/3sluz/AdanTimesforAIDA64).
 
 ## 📸 لقطات من التطبيق
 
