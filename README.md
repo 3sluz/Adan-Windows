@@ -3,7 +3,7 @@
   <p><b>Your comprehensive Islamic desktop companion — keeps you connected to your daily worship.</b></p>
   <p><b>رفيقك الإسلامي الشامل على سطح المكتب — يُبقيك متصلاً بعباداتك اليومية.</b></p>
   
-  <a href="https://apps.microsoft.com/store/detail/YOUR_APP_ID">
+  <a href="https://apps.microsoft.com/store/detail/9mxgh02lvjxx">
     <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Download from Microsoft Store">
   </a>
   <br><br>
@@ -59,7 +59,7 @@
 
 Download the app directly and securely from the Microsoft Store:
 
-[<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Download">](https://apps.microsoft.com/store/detail/YOUR_APP_ID)
+[<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Download">](https://apps.microsoft.com/store/detail/9mxgh02lvjxx)
 
 *Completely free. No ads. Forever.*
 
@@ -106,7 +106,7 @@ Download the app directly and securely from the Microsoft Store:
 
 يمكنك تحميل وتثبيت التطبيق بسهولة ومجانًا من متجر مايكروسوفت (Microsoft Store):
 
-[<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="التحميل من متجر مايكروسوفت">](https://apps.microsoft.com/store/detail/YOUR_APP_ID)
+[<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="التحميل من متجر مايكروسوفت">](https://apps.microsoft.com/store/detail/9mxgh02lvjxx)
 
 *التطبيق مجاني تماماً. بدون إعلانات. وسيبقى كذلك دائماً بإذن الله.*
 
