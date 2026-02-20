@@ -100,7 +100,7 @@ Download the app directly and securely from the Microsoft Store:
 
 يمكنك تحميل وتثبيت التطبيق بسهولة ومجانًا من متجر مايكروسوفت (Microsoft Store):
 
-[<img src="https://get.microsoft.com/images/ar-sa%20dark.svg" width="200" alt="التحميل من متجر مايكروسوفت">](https://apps.microsoft.com/store/detail/YOUR_APP_ID)
+[<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="التحميل من متجر مايكروسوفت">](https://apps.microsoft.com/store/detail/YOUR_APP_ID)
 
 *التطبيق مجاني تماماً. بدون إعلانات. وسيبقى كذلك دائماً بإذن الله.*
 
